@@ -1,0 +1,11 @@
+{
+  "nodes": 4039,
+  "undirected_edges": 88234,
+  "class_counts": {
+    "degree_2_to_10": 885,
+    "degree_above_10": 3079,
+    "degree_at_most_1": 75
+  },
+  "majority_class_accuracy": 0.7623174052983411,
+  "target_definition_accuracy": 1.0
+}
